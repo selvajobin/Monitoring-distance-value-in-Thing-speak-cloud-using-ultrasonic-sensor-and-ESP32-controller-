@@ -1,5 +1,5 @@
-## NAME: JEEVAPRIYA R
-## REG. NO. : 212222220018
+## NAME: SELVA JOBIN S
+## REG. NO. : 212223220102
 ## Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
