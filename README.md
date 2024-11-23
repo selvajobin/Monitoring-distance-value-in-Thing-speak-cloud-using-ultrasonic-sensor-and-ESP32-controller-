@@ -1,6 +1,7 @@
-## NAME: SELVA JOBIN S
-## REG. NO. : 212223220102
-## Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+ NAME: SELVA JOBIN S
+ 
+ REG NO : 212223220102
+# EX NO:6 Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
